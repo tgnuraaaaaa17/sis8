@@ -1,3 +1,4 @@
+import { useMemo } from 'react';
 import { useSelector } from 'react-redux';
 import { Link, useSearchParams } from 'react-router';
 import BarList from '../components/BarList.jsx';
