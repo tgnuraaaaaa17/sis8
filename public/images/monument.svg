@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fb3d8"/><stop offset="1" stop-color="#e6f0f8"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#sky)"/>
+<circle cx="640" cy="110" r="48" fill="#ffe1a3"/>
+<rect y="430" width="800" height="70" fill="#5c7a5f"/>
+<path d="M300 430 L330 150 L470 150 L500 430 Z" fill="#9aa7b4"/>
+<path d="M330 150 L400 60 L470 150 Z" fill="#7e8b99"/>
+<path d="M375 60 L400 18 L425 60 Z" fill="#c8452f"/>
+<path d="M285 430 L515 430 L540 460 L260 460 Z" fill="#7b8794"/>
+<g fill="#f2f7ff" opacity=".85"><circle cx="120" cy="90" r="3"/><circle cx="180" cy="140" r="2.5"/><circle cx="90" cy="160" r="2"/></g>
+</svg>

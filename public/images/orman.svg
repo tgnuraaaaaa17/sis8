@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bfe3d2"/><stop offset="1" stop-color="#eaf6ee"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#sky)"/>
+<path d="M0 320 L220 190 L360 300 L520 170 L700 320 L800 260 L800 500 L0 500 Z" fill="#6f9c8f"/>
+<rect y="380" width="800" height="120" fill="#3f6b4a"/>
+<g fill="#2f5c3c">
+  <path d="M90 400 L130 250 L170 400 Z"/><path d="M70 400 L110 280 L150 400 Z"/>
+  <path d="M240 410 L280 240 L320 410 Z"/><path d="M300 410 L335 270 L370 410 Z"/>
+  <path d="M430 405 L470 235 L510 405 Z"/><path d="M490 405 L525 275 L560 405 Z"/>
+  <path d="M620 410 L660 255 L700 410 Z"/><path d="M690 405 L725 285 L760 405 Z"/>
+</g>
+<g fill="#244a30" opacity=".9">
+  <rect x="126" y="395" width="9" height="26"/><rect x="276" y="405" width="9" height="26"/>
+  <rect x="466" y="400" width="9" height="26"/><rect x="656" y="405" width="9" height="26"/>
+</g>
+</svg>

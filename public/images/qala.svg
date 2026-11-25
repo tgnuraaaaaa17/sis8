@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#123a63"/><stop offset="1" stop-color="#4f8fb3"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#sky)"/>
+<circle cx="640" cy="120" r="55" fill="#ffd166" opacity=".9"/>
+<rect y="360" width="800" height="140" fill="#1f3a5f"/>
+<g fill="#2b4a73">
+  <rect x="40" y="220" width="70" height="140"/><rect x="125" y="170" width="55" height="190"/>
+  <rect x="200" y="250" width="90" height="110"/><rect x="305" y="140" width="60" height="220"/>
+  <rect x="380" y="210" width="48" height="150"/><rect x="440" y="120" width="72" height="240"/>
+  <rect x="530" y="190" width="86" height="170"/><rect x="630" y="240" width="52" height="120"/>
+  <rect x="695" y="200" width="70" height="160"/>
+</g>
+<g fill="#ffd166" opacity=".85">
+  <rect x="52" y="240" width="10" height="12"/><rect x="72" y="240" width="10" height="12"/><rect x="52" y="270" width="10" height="12"/>
+  <rect x="318" y="165" width="10" height="12"/><rect x="340" y="165" width="10" height="12"/><rect x="318" y="200" width="10" height="12"/>
+  <rect x="455" y="150" width="10" height="12"/><rect x="478" y="150" width="10" height="12"/><rect x="455" y="185" width="10" height="12"/>
+  <rect x="545" y="215" width="10" height="12"/><rect x="570" y="215" width="10" height="12"/><rect x="545" y="250" width="10" height="12"/>
+  <rect x="137" y="195" width="10" height="12"/><rect x="155" y="195" width="10" height="12"/>
+</g>
+<g stroke="#7fc8f8" stroke-width="6" opacity=".7">
+  <path d="M0 300 L800 300" stroke-dasharray="4 26"/>
+</g>
+<path d="M0 360 L800 360 L800 500 L0 500 Z" fill="#16294a" opacity=".55"/>
+</svg>

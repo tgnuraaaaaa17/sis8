@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d4e6f"/><stop offset="1" stop-color="#9fd8f0"/></linearGradient><linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2e86a8"/><stop offset="1" stop-color="#0f3f5c"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#sky)"/>
+<circle cx="620" cy="110" r="48" fill="#fff3c4"/>
+<path d="M0 300 L180 140 L300 250 L420 160 L560 300 L700 200 L800 280 L800 340 L0 340 Z" fill="#35507a"/>
+<path d="M180 140 L140 200 L180 192 L215 212 Z" fill="#ffffff"/><path d="M420 160 L382 215 L420 208 L455 222 Z" fill="#ffffff"/>
+<rect y="320" width="800" height="180" fill="url(#water)"/>
+<g opacity=".35" fill="#ffffff">
+  <ellipse cx="620" cy="360" rx="40" ry="7"/><ellipse cx="300" cy="390" rx="60" ry="6"/><ellipse cx="500" cy="420" rx="70" ry="6"/>
+</g>
+<path d="M0 320 L800 320 L800 335 L0 335 Z" fill="#2f6f8f" opacity=".6"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6fa8d8"/><stop offset="1" stop-color="#d9ecf7"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#sky)"/>
+<circle cx="400" cy="95" r="48" fill="#ffe6a8"/>
+<rect y="430" width="800" height="70" fill="#d8c9a6"/>
+<path d="M250 430 L250 300 Q250 235 310 235 L490 235 Q550 235 550 300 L550 430 Z" fill="#f3ece0"/>
+<path d="M320 300 Q320 210 400 210 Q480 210 480 300 Z" fill="#d9a441"/>
+<path d="M395 210 L405 210 L405 170 L395 170 Z" fill="#b8862f"/>
+<circle cx="400" cy="160" r="10" fill="#b8862f"/>
+<g fill="#f3ece0">
+  <rect x="200" y="290" width="34" height="140"/><rect x="566" y="290" width="34" height="140"/>
+  <path d="M217 290 L217 240 Q217 210 234 210 Q251 210 251 240 L251 290 Z" fill="#d9a441"/>
+  <path d="M583 290 L583 240 Q583 210 600 210 Q617 210 617 240 L617 290 Z" fill="#d9a441"/>
+</g>
+<path d="M340 430 L340 340 Q340 315 360 315 L440 315 Q460 315 460 340 L460 430 Z" fill="#b8862f"/>
+<g fill="#6b4d2a" opacity=".55"><circle cx="285" cy="360" r="18"/><circle cx="515" cy="360" r="18"/></g>
+</svg>
